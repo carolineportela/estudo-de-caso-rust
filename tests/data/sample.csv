@@ -1,0 +1,16 @@
+id,name,category,brand,price,tags
+1,Mouse Gamer Pro RGB,Eletrônicos,Logitech,99.90,acessorio;gamer
+2,Teclado Mecânico TKL,Eletrônicos,Corsair,249.50,acessorio;mecanico
+3,Fone de Ouvido Wireless,Eletrônicos,Sony,199.90,audio;wireless
+4,Smartphone X,Eletrônicos,Samsung,2999.00,portatil;android
+5,Notebook Ultrafino,Eletrônicos,Apple,8999.00,portatil;mac
+6,Cabo USB-C 1m,Eletrônicos,Anker,29.90,acessorio;usb-c
+7,Cadeira Gamer,Móveis,DXRacer,799.00,conforto;gamer
+8,Caneca de Cerâmica,Decoração,Tramontina,25.00,cozinha;ceramica
+9,Camiseta Básica,Vestuário,Hering,39.90,conforto;algodao
+10,Chocolate Amargo 70%,Alimentos,Lindt,12.50,chocolate;amargo
+11,Monitor 27" 144Hz,Eletrônicos,AOC,1249.00,tela;gaming
+12,HD Externo 1TB,Eletrônicos,Western Digital,459.90,armazenamento;usb
+13,Caixa de Som Bluetooth,Eletrônicos,JBL,349.00,audio;portatil
+14,Luminária de Mesa,Decoração,Brilia,89.90,iluminacao;led
+15,Bolsa Térmica,Alimentos,Igloo,129.00,termo;viagem
